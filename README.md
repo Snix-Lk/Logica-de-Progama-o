@@ -6,7 +6,7 @@ Este repositório contém meus primeiros estudos em lógica de programação.
 - Algoritmos
 - Variáveis
 - Condições
-- Laços de repetição
+- Laços de repetiçao
 
 🚀 Objetivo:
 Construir uma base sólida para aprender programação.
